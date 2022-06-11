@@ -1,0 +1,43 @@
+
+
+@media screen and (max-width:992px) {
+    .container {
+      max-width: 100%;
+      }
+
+  }
+  @media screen and (max-width:768px) {
+    
+ 
+  }
+  @media screen and (max-width:576px) {
+    
+
+  }
+    /* @media only screen and (max-width : 480px) {
+nav {
+    border-bottom: 0;
+}
+nav ul {
+    display: none;
+    height: auto;
+}
+nav a#pull {
+    display: block;
+    background-color: #283744;
+    width: 100%;
+    position: relative;
+}
+nav a#pull:after {
+    content:"";
+    background: url('../img/menu.png') no-repeat;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    position: absolute;
+    right: 15px;
+    top: 10px;
+}
+} */
+      
+  
